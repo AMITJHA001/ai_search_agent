@@ -185,3 +185,21 @@ Tools Used:
 - wikipedia_search
 - save_text_to_file
 
+--- Research Output ---
+Timestamp: 2026-10-10 14:28:24
+
+Topic: Moon
+
+Summary:
+The Moon is Earth's only natural satellite and the fifth-largest moon in the Solar System. It orbits Earth at an average distance of about 378,000 km (235,000 mi) and completes a synodic orbit every 29.5 days. Gravitational interaction between Earth and the Moon drives ocean tides and has tidally locked the Moon, so it always shows the same near side to Earth. The Moon has a diameter of about 3,474 km (2,159 mi), roughly one-quarter of Earth's, and a surface gravity about one-sixth of Earth's. Its mass is about 1.2% of Earth's. The lunar surface is covered in regolith and marked by impact craters, with dark basaltic plains called maria formed by ancient volcanic activity that ended around 1.2 billion years ago. The Moon is a differentiated rocky body with a negligible atmosphere, hydrosphere, and magnetic field. Its origin is widely explained by the giant-impact hypothesis, in which a Mars-sized body collided with early Earth and ejected material that coalesced into the Moon. The Moon remains a key target for scientific study and exploration, including NASA's Lunar Reconnaissance Orbiter and ongoing lunar science programs.
+
+Sources:
+- Wikipedia: Moon
+- NASA Lunar Science
+- Search result summary on the Moon
+
+Tools Used:
+- search
+- wikipedia_search
+- save_text_to_file
+

@@ -20,7 +20,7 @@ class ResearchResponse(BaseModel):
     
 
 llm = ChatOpenRouter(
-    model="deepseek/deepseek-v4.1-flash",
+    model=os.getenv("OPENROUTER_MODEL_NAME"),
     api_key=os.getenv("OPENROUTER_API_KEY"),
     temperature=0.2,
      max_tokens=1000,
