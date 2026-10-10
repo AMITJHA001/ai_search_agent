@@ -1,0 +1,187 @@
+--- Research Output ---
+Timestamp: 2026-10-10 13:18:56
+
+This is my first research result.
+
+--- Research Output ---
+Timestamp: 2026-10-10 13:19:56
+
+This is my first research result.
+
+--- Research Output ---
+Timestamp: 2026-10-10 13:21:46
+
+Testing LangChain save tool
+
+--- Research Output ---
+Timestamp: 2026-10-10 13:29:11
+
+Topic: Different Planets in the Solar System
+
+The solar system contains eight officially recognized planets orbiting the Sun, plus five recognized dwarf planets.
+
+The 8 planets in order from the Sun:
+1. Mercury - smallest planet, closest to the Sun, rocky/terrestrial, completes an orbit in ~88 days, iron core ~3/4 of its diameter.
+2. Venus - similar in size to Earth ("sister planet"), terrestrial, most visible planet, thick atmosphere.
+3. Earth - largest terrestrial planet, only planet known to support life, ~2/3 water, breathable atmosphere.
+4. Mars - terrestrial, reddish color, close neighbor, subject of much exploration.
+5. Jupiter - largest planet, first gas giant, diameter ~11x Earth, mass 2.5x all other planets combined, has the Great Red Spot.
+6. Saturn - second largest planet, gas giant, famous bright rings made of ice particles.
+7. Uranus - ice giant, discovered 1781, first planet only visible by telescope, orbits on its side.
+8. Neptune - ice giant, farthest planet, discovered via math by John C. Adams (1843), bright blue color, named after Roman god of the sea.
+
+Planet classifications:
+- Terrestrial (Earth-like): Mercury, Venus, Earth, Mars - solid rocky surfaces.
+- Gas giants (Jupiter-like): Jupiter and Saturn - composed mostly of hydrogen and helium, no solid surface, strong magnetic fields.
+- Ice giants: Uranus and Neptune - distinct class of giant planet, separate from gas giants.
+
+Dwarf planets (5 recognized): Ceres, Pluto, Haumea, Makemake, Eris.
+
+Planets can be composed of rock, gas, or ice, and vary greatly in size, atmosphere, temperature, and other physical features.
+
+--- Research Output ---
+Timestamp: 2026-10-10 13:50:20
+
+Topic: Planets in the Solar System
+
+Summary:
+The Solar System is the gravitationally bound system of the Sun and everything orbiting it, located within the Milky Way Galaxy. It contains eight officially recognized planets, which in order from the Sun are: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.
+
+Categories:
+- Terrestrial (inner) planets: Mercury, Venus, Earth, Mars — rocky worlds with solid surfaces, located between the Sun and the asteroid belt.
+- Giant (outer) planets: Jupiter, Saturn (gas giants) and Uranus, Neptune (ice giants) — larger worlds, all four of which have ring systems.
+
+Key facts:
+- Mercury: closest to the Sun and smallest planet; extreme temperature swings (about 430°C day to -180°C night) due to lack of atmosphere.
+- Venus: second planet, similar in size to Earth ("Earth's twin"); slowest rotation (243 Earth days) and rotates in the opposite direction.
+- Earth: third planet, fifth-largest; orbits the Sun in 365.25 days and has one moon.
+- Mars: fourth planet, the "Red Planet" (iron oxide/rust in soil); home to the tallest known mountain and largest canyon; has polar ice caps.
+- Jupiter: largest planet; a gas giant.
+- Saturn: gas giant famous for its prominent ring system.
+- Uranus: ice giant; one of two planets rotating in the opposite direction.
+- Neptune: ice giant and the farthest planet from the Sun.
+
+Dwarf planets: The IAU recognizes five dwarf planets — Ceres, Pluto, Haumea, Makemake, and Eris. Pluto was considered the ninth planet from its discovery in 1930 until the IAU's 2006 redefinition of "planet," which requires a body to (1) orbit the Sun, (2) have enough gravity to pull itself into a nearly round shape, and (3) have cleared the neighborhood around its orbit. Pluto fails the third criterion, so it was reclassified as a dwarf planet. This reclassification remains debated among some astronomers.
+
+Mnemonic: A common way to remember the order is a sentence using the first letters M, V, E, M, J, S, U, N (e.g., "My Very Educated Mother Just Served Us Noodles").
+
+Sources:
+- NASA Solar System Exploration
+- AstroBackyard (planets in order from the Sun)
+- Encyclopaedia Britannica (solar system)
+- IAU planet definition (2006)
+
+--- Research Output ---
+Timestamp: 2026-10-10 14:08:49
+
+Topic: The Planets in Our Solar System
+
+Summary:
+Our solar system contains eight official planets, all orbiting the Sun, which is located in the Orion Arm of the Milky Way galaxy. The solar system formed about 4.6 billion years ago from a collapsing cloud of gas and dust.
+
+ORDER OF THE PLANETS (from closest to the Sun outward):
+1. Mercury
+2. Venus
+3. Earth
+4. Mars
+5. Jupiter
+6. Saturn
+7. Uranus
+8. Neptune
+
+A common mnemonic uses the first letters M-V-E-M-J-S-U-N.
+
+TWO MAIN GROUPS:
+- Terrestrial (inner) planets: Mercury, Venus, Earth, Mars — rocky planets with solid surfaces, located between the Sun and the asteroid belt.
+- Giant (outer) planets: Jupiter, Saturn, Uranus, Neptune. Jupiter and Saturn are gas giants; Uranus and Neptune are ice giants.
+
+PLANET DETAILS:
+- Mercury: Closest planet to the Sun and the smallest of the eight (only slightly larger than our Moon). Lacks a substantial atmosphere, so temperatures swing from about 430°C (800°F) by day to -180°C (-290°F) at night. Orbits the Sun in just 88 days and has a very long day.
+- Venus: Second planet from the Sun and the second-brightest natural object in Earth's night sky (after the Moon). Similar in size and mass to Earth, it is called Earth's "sister/twin" planet. Its rotation period of 243 Earth days is the slowest of any planet, and it rotates in the opposite (retrograde) direction. It has a thick, toxic atmosphere.
+- Earth: Third planet from the Sun and the fifth-largest. Orbits the Sun in 365.25 days and rotates on a tilted axis, causing the four seasons. Has one natural satellite (the Moon), which stabilizes its axis and drives tides. The only planet known to support life.
+- Mars: Fourth planet from the Sun, known as the "Red Planet" due to iron oxide (rust) in its soil. Home to the highest known mountain and the largest canyon in the solar system, plus polar ice caps that stay frozen year-round. Low atmospheric pressure prevents liquid water from persisting on its surface.
+- Jupiter: The largest planet in the solar system. A gas giant.
+- Saturn: The second-largest planet; a gas giant known for its prominent ring system.
+- Uranus: An ice giant; one of two planets that rotates on its side.
+- Neptune: The farthest planet from the Sun; an ice giant and the outermost official planet.
+
+OTHER FACTS:
+- Four planets (Jupiter, Saturn, Uranus, Neptune) have ring systems.
+- All planets except Mercury and Venus have one or more moons.
+- Earth and Mars are the only planets orbiting within the Sun's habitable zone (where liquid surface water can exist).
+- Planet definition (IAU, 2006): A planet must (1) orbit the Sun, (2) have enough gravity to force itself into a nearly round shape (hydrostatic equilibrium), and (3) have cleared its orbit of other objects. This definition is still debated.
+
+DWARF PLANETS:
+There are five officially recognized dwarf planets. In order of distance from the Sun: Ceres, Pluto, Haumea, Makemake, and Eris. Pluto was considered the ninth planet after its discovery in 1930 but was reclassified as a dwarf planet because it has not cleared its orbit. It has 5 known moons (Charon, Nix, Hydra, Kerberos, Styx). There are 9 known moons of dwarf planets in total.
+
+Sources:
+- https://space-facts.com (space-facts.com)
+- https://www.astrobackyard.com (AstroBackyard - planets in order)
+- NASA Solar System Exploration (science.nasa.gov / solarsystem.nasa.gov)
+- NASA Planetary Fact Sheet (NSSDCA)
+- Britannica (solar system planets)
+- https://en.wikipedia.org/wiki/Solar_System
+
+Tools Used:
+- search
+- save_text_to_file
+
+
+--- Research Output ---
+Timestamp: 2026-10-10 14:12:19
+
+Topic: Planets in the Solar System
+
+The Solar System has eight planets, in order from the Sun:
+1. Mercury - smallest planet, closest to the Sun
+2. Venus - second planet, hottest due to greenhouse effect
+3. Earth - third planet, only known planet with life
+4. Mars - fourth planet, the "Red Planet"
+5. Jupiter - largest planet, a gas giant
+6. Saturn - gas giant famous for its rings
+7. Uranus - ice giant, rotates on its side
+8. Neptune - farthest planet, an ice giant
+
+Classification:
+- Inner (terrestrial/rocky) planets: Mercury, Venus, Earth, Mars
+- Outer planets: gas giants (Jupiter, Saturn) and ice giants (Uranus, Neptune)
+- Jupiter and Saturn hold nearly 90% of the Solar System's non-stellar mass.
+
+Dwarf planets (5 officially recognized): Ceres, Pluto, Haumea, Makemake, Eris. Pluto was reclassified from planet to dwarf planet by the IAU in 2006 because it has not cleared its orbit.
+
+Sources: NASA, space-facts.com, Wikipedia
+
+--- Research Output ---
+Timestamp: 2026-10-10 14:15:20
+
+Topic: Mars (The Red Planet)
+
+Summary:
+Mars is the fourth planet from the Sun and the seventh largest in the solar system by size and mass. It is a dusty, cold, desert world with a very thin atmosphere composed primarily of carbon dioxide. Mars is a dynamic planet featuring seasons, polar ice caps, extinct volcanoes, deep canyons, and weather including deadly dust storms. It is one of Earth's two closest planetary neighbors (Venus being the other) and appears as a bright red point of light in the night sky, making it one of the easiest planets to spot.
+
+Surface Features:
+- Olympus Mons: a giant extinct volcano (the largest in the solar system)
+- Valles Marineris: a vast canyon system
+- Polar ice caps and evidence of ancient water
+
+Moons:
+Mars has two natural satellites, Phobos and Deimos, discovered in 1877 by American astronomer Asaph Hall. Both are thought to be captured asteroids or debris from early solar system formation. Phobos is the innermost and larger moon, orbiting at a semi-major axis of 9,377 km with an orbital period of 7.66 hours. Deimos orbits farther out at 23,460 km with a period of 30.35 hours. They are named after the Greek gods of fear/panic (Phobos) and dread (Deimos), twin sons of Ares (Mars).
+
+Water and Habitability:
+There are intriguing clues that billions of years ago Mars was even more Earth-like than today. Evidence spans ancient valley networks, river channels, hydrated minerals, polar ice, and possible underground liquid reservoirs. Complex organic molecules and mineral structures associated with biological activity suggest the Red Planet may once have been habitable. However, to date no conclusive evidence of past or present life has been found.
+
+Exploration:
+Mars is one of the most explored bodies in our solar system and the only planet where rovers have been sent to roam the alien landscape. NASA's Mars Exploration Rover Mission (MER), started in 2003, involved two rovers: Spirit (MER-A) and Opportunity (MER-B), which explored Martian surface geology. There have been 50+ Mars mission attempts since 1960, including flybys, orbiters, landers, and rovers. Orbiters also support the Mars Exploration Program by providing communications relay for future missions.
+
+Sources:
+- Wikipedia search: Mars
+- Web search: Mars planet facts
+- Web search: Mars exploration rovers missions history
+- Web search: evidence of water on Mars ancient life
+- Web search: Mars two moons Phobos Deimos description
+
+Tools Used:
+- search
+- wikipedia_search
+- save_text_to_file
+
