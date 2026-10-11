@@ -203,3 +203,27 @@ Tools Used:
 - wikipedia_search
 - save_text_to_file
 
+--- Research Output ---
+Timestamp: 2026-10-10 15:38:18
+
+Topic: Planets that rotate east to west (retrograde rotation)
+
+Summary:
+In our solar system, almost all planets rotate on their axis in the same direction they orbit the Sun — counterclockwise when viewed from above the Sun's north pole, which corresponds to a west-to-east rotation. However, two planets rotate in the opposite direction (clockwise, i.e., east to west). This is known as retrograde rotation.
+
+The two planets that rotate east to west:
+1. Venus — rotates clockwise (east to west), opposite to its orbital direction. Its rotation is extremely slow, taking about 243 Earth days for one rotation, longer than its 225-day orbit around the Sun.
+2. Uranus — rotates on its side, tilted at about 98 degrees, so its rotation is also retrograde (clockwise/east to west) relative to the Sun. Its orbital period is about 84 years.
+
+Key points:
+- All planets orbit the Sun counterclockwise (west to east) except their axial rotations vary.
+- All planets rotate counterclockwise (west to east) EXCEPT Venus and Uranus, which rotate clockwise (east to west).
+- This opposite-direction spin is called retrograde rotation.
+- Venus and Uranus rotate in the opposite direction (clockwise) to the Sun.
+
+Sources:
+- Wikipedia: "Retrograde and prograde motion"
+- Web search results on retrograde rotation of planets
+
+Tools used: search, wikipedia_search, save_text_to_file
+
