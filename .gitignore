@@ -1,3 +1,4 @@
 .env
 __pycache__/
 venv
+reswarch_output.py
